@@ -1,2 +1,3 @@
 # TECO_SPRUCE_ME
-TECO_SPRUCE_ME is designed for C cycle including methane emission simulation in peatland and is now adapted at SPRUCE site
+TECO_SPRUCE_ME added methane emission simulation function in peatland ecosystem (Ma et al. 2017 JGR-Biogeosciences). It is now fully adapted to the SPRUCE site.
+In the current version soil thermal dynamics in different depths (developed by Yuanyuan Huang et al. 2017 JGR-Biogeosciences) has not been incorprated yet.
